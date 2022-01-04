@@ -1,4 +1,4 @@
-#banner-space{
+.banner-space{
     margin-top: 100px;
 }
 .orrange-bg{
@@ -19,4 +19,23 @@
     padding: 9px 25 px;
     cursor: pointer;
     border-style:initial;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
 }
